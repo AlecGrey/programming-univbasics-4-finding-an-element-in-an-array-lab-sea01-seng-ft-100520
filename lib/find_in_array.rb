@@ -11,4 +11,4 @@ end
 
 array = "sheet beet YEET feet meet greet".split(" ")
 
-puts find_element_index(array, "YEET")
+puts find_element_index(array, "YEET") #=> 2
